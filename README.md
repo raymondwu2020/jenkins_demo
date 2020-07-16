@@ -1,1 +1,1 @@
-# jenkins_demo
+This is a demo project to set up CI/CD with jenkins
